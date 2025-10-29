@@ -42,7 +42,7 @@ app.post("/sendemail", (req, res) => {
 
         new Promise(async (resolve, reject) => {
             try {
-                for (i = 0; i < emailList.length; i++) {
+                for (let i = 0; i < emailList.length; i++) {
                     await transporter.sendMail(
                         {
                             from: "abik10203@gmail.com",
