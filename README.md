@@ -26,7 +26,7 @@
 - Click Send to deliver the message to all listed recipients.
 - Backend securely handles the email-sending process through the server.
 
-🔗 Live Project
+# Live Project
 
 Explore the live project here https://bulkmail-website.vercel.app/. Experience fast, secure, and professional bulk email sending — right from your browser.
 
