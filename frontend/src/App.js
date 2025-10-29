@@ -66,7 +66,7 @@ function App() {
       <h1 className="text-blue-300">H</h1>
     </div>
     <div className="bg-blue-200 p-5">
-      <h1 className="text-blue-300">H</h1>
+      <h1 className="text-blue-200">H</h1>
     </div>
   </div>)
 }
